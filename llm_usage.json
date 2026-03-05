@@ -1,0 +1,12 @@
+{
+  "student_name": "Ayush Dev",
+  "course": "Advanced Machine Learning",
+  "assignment": "Midsem Part A",
+  "llm_usage": [
+    {
+      "tool": "ChatGPT",
+      "usage": "Used for general guidance while selecting a research paper and understanding the topic.",
+      "date": "2026-03-05"
+    }
+  ]
+}
